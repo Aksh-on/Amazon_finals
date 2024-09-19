@@ -1,6 +1,5 @@
 # Amazon_finals
-OCR and Entity Extraction from Images
-
+**OCR and Entity Extraction from Images**
 Contested in Amazon's yearly ML hackathon challenge and stood amongst top 100 teams in the finals amongst total participation of 75000 teams
 OCR and Entity Extraction from Images
 Overview
